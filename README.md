@@ -64,8 +64,8 @@ Titanic Dataset from Kaggle:
 ## 📷 Sample Output
 
 <img src="survival_by_gender.png" width="500">
-<img src="Passenger Class and Survival" width="500">
-<img src="Fare and Survival" width="500">
+<img src="Passenger Class and Survival.png" width="500">
+<img src="Fare and Survival.png" width="500">
 ---
 
 ## ✅ Project Status
